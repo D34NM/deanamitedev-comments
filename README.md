@@ -1,6 +1,6 @@
-# Comments Repository for deanamaite.dev
+# Comments Repository for deanamite.dev
 
-This is a public repository used to handle comments for the GitHub Pages blog at [deanamaite.dev](https://deanamaite.dev).
+This is a public repository used to handle comments for the GitHub Pages blog at [deanamaite.dev](https://deanamite.dev).
 
 ## Purpose
 
